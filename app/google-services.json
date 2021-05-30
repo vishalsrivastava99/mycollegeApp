@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682531812165",
+    "project_id": "michat-cff25",
+    "storage_bucket": "michat-cff25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682531812165:android:fb9e7d1a8e64e425eb042c",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682531812165-gs0krtuafd350onivbjvkburauf3c6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqtOh4txyAVpfmgU4V4TnKU_2kETYgoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682531812165-gs0krtuafd350onivbjvkburauf3c6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
